@@ -5,3 +5,5 @@ const Hello = () => {
 }
 
 export default Hello;
+
+// this is what JSX is translated to at runtime...a regular javascript
